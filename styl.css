@@ -134,6 +134,17 @@ body {
       background-size: 600px;
   }
 
+  .card11 {
+    background: url('img/13.jpg') center center no-repeat;
+    background-size: 300px;
+  }
+  
+  .card11:hover {
+      background: url('img/13.jpg') left center no-repeat;
+      background-size: 600px;
+  }
+
+
 
   
   .fab {
