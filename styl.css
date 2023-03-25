@@ -1,4 +1,21 @@
-body {
+.bar{
+  
+
+  height: 10vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.bar>a{
+  background-color: black;
+  width: 10vh;
+  padding: 1%;
+  border-radius:50% ;
+  text-align: center;
+  text-decoration: none;
+  font-weight: bold;
+}
+.t{
     display: flex;
     align-items: center;
     justify-content: space-around;
