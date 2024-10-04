@@ -45,7 +45,7 @@
   }
   .cardf {
     height: 500px;
-    width: 700px;
+    width: 600px;
     border-radius: 10px;
     transition: all 0.8s;
     overflow: hidden;
@@ -59,7 +59,7 @@
   }
   .borderf {
     height: 490px;
-    width: 890px;
+    width: 600px;
     border-radius: 10px;
     transition: all 1s;
     position: relative;
@@ -177,7 +177,7 @@
 
   .card11 {
     background: url('img/13.jpg') center center no-repeat;
-    background-size: 700px;
+    background-size: 600px;
   }
   
   .card11:hover {
@@ -186,11 +186,21 @@
   }
 
   .card12 {
-    background: url('img/14.jpg') center center no-repeat;
+    background: url('img/15.jpg') center center no-repeat;
     background-size: 300px;
   }
   
   .card12:hover {
+      background: url('img/15.jpg') left center no-repeat;
+      background-size: 600px;
+  }
+
+  .card13 {
+    background: url('img/14.jpg') center center no-repeat;
+    background-size: 300px;
+  }
+  
+  .card13:hover {
       background: url('img/14.jpg') left center no-repeat;
       background-size: 600px;
   }
